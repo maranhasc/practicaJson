@@ -1,0 +1,104 @@
+{
+
+    "supermercados": [
+        {
+            "nombre": "Alcampo",
+            "direccion": "CM-4003 ",
+            "geolocalizacion": " 45003 Toledo"
+        },
+        {
+            "productos" : [
+                {
+                    "producto":"Huevos",
+                    "oferta": true,
+                    "vigencia": "28-05-2023",
+                    "habitual": true,
+                    "unidades":12,
+                    "medida": "docenas",
+                    "precio": 2.65,
+                    "adquirido": false
+                },
+                {
+                    "producto":"Pan",
+                    "oferta": false,
+                    "vigencia": null,
+                    "habitual": true,
+                    "unidades":1,
+                    "medida": "barra",
+                    "precio": 0.75,
+                    "adquirido": false
+                }
+
+            ]
+        },
+        
+        {
+            
+                "nombre": "Lidl",
+                "direccion": "Av. Francia, Pl. de Grecia, 2 ",
+                "geolocalizacion": "45005 Toledo"
+            
+        },
+        {
+            "productos" : [
+                {
+                    "producto":"Leche",
+                    "oferta": true,
+                    "vigencia": "25-05-2023",
+                    "habitual": true,
+                    "unidades":6,
+                    "medida": "litro",
+                    "precio": 4.5,
+                    "adquirido": true
+                },
+                {
+                    "producto":"Jamon serrano 120g",
+                    "oferta": true,
+                    "vigencia": "31-05-2023",
+                    "habitual": true,
+                    "unidades":1,
+                    "medida": "gramos",
+                    "precio": 1.69,
+                    "adquirido": false
+                }
+
+            ]
+        },
+        {
+            
+            "nombre": "Mercadona",
+            "direccion": "Pl. de Grecia ",
+            "geolocalizacion": "45005 Toledo"
+        
+        },
+        {
+            "productos" : [
+                {
+                    "producto":"Leche",
+                    "oferta": true,
+                    "vigencia": "25-05-2023",
+                    "habitual": true,
+                    "unidades":6,
+                    "medida": "litro",
+                    "precio": 4.5,
+                    "adquirido": true
+                },
+                {
+                    "producto":"Jamon serrano 120g",
+                    "oferta": true,
+                    "vigencia": "31-05-2023",
+                    "habitual": true,
+                    "unidades":1,
+                    "medida": "gramos",
+                    "precio": 1.69,
+                    "adquirido": false
+                }
+
+            ]
+        }
+
+    ]
+
+
+
+    }

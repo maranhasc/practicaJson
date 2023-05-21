@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <supermercados>
+    <nombre>Alcampo</nombre>
+    <direccion>CM-4003 </direccion>
+    <geolocalizacion> 45003 Toledo</geolocalizacion>
+  </supermercados>
+  <supermercados>
+    <productos>
+      <producto>Huevos</producto>
+      <oferta>true</oferta>
+      <vigencia>28-05-2023</vigencia>
+      <habitual>true</habitual>
+      <unidades>12</unidades>
+      <medida>docenas</medida>
+      <precio>2.65</precio>
+      <adquirido>false</adquirido>
+    </productos>
+    <productos>
+      <producto>Pan</producto>
+      <oferta>false</oferta>
+      <vigencia/>
+      <habitual>true</habitual>
+      <unidades>1</unidades>
+      <medida>barra</medida>
+      <precio>0.75</precio>
+      <adquirido>false</adquirido>
+    </productos>
+  </supermercados>
+  <supermercados>
+    <nombre>Lidl</nombre>
+    <direccion>Av. Francia, Pl. de Grecia, 2 </direccion>
+    <geolocalizacion>45005 Toledo</geolocalizacion>
+  </supermercados>
+  <supermercados>
+    <productos>
+      <producto>Leche</producto>
+      <oferta>true</oferta>
+      <vigencia>25-05-2023</vigencia>
+      <habitual>true</habitual>
+      <unidades>6</unidades>
+      <medida>litro</medida>
+      <precio>4.5</precio>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <producto>Jamon serrano 120g</producto>
+      <oferta>true</oferta>
+      <vigencia>31-05-2023</vigencia>
+      <habitual>true</habitual>
+      <unidades>1</unidades>
+      <medida>gramos</medida>
+      <precio>1.69</precio>
+      <adquirido>false</adquirido>
+    </productos>
+  </supermercados>
+  <supermercados>
+    <nombre>Mercadona</nombre>
+    <direccion>Pl. de Grecia </direccion>
+    <geolocalizacion>45005 Toledo</geolocalizacion>
+  </supermercados>
+  <supermercados>
+    <productos>
+      <producto>Leche</producto>
+      <oferta>true</oferta>
+      <vigencia>25-05-2023</vigencia>
+      <habitual>true</habitual>
+      <unidades>6</unidades>
+      <medida>litro</medida>
+      <precio>4.5</precio>
+      <adquirido>true</adquirido>
+    </productos>
+    <productos>
+      <producto>Jamon serrano 120g</producto>
+      <oferta>true</oferta>
+      <vigencia>31-05-2023</vigencia>
+      <habitual>true</habitual>
+      <unidades>1</unidades>
+      <medida>gramos</medida>
+      <precio>1.69</precio>
+      <adquirido>false</adquirido>
+    </productos>
+  </supermercados>
+</root>
